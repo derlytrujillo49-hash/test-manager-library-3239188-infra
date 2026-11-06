@@ -2,7 +2,7 @@
 
 This repository contains the containerized orchestration and network layout for *Manager Library*, deploying a clean reference environment using **Docker** and **Docker Compose**.
 
-## ⚙️ Core SDD Architectural Decisions
+##  Core SDD Architectural Decisions
 
 Following the strict environment requirements outlined in the business specification documents, this infrastructure layer enforces the following constraints:
 
